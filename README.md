@@ -4,7 +4,7 @@ This is a simple notes application that allows users to create groups for their 
 
 ## Features
 
-- **Create Groups**: Users can create groups for their notes. A popup will open up to create a new group, and users can choose a color for the group. Clicking outside the popup will close it.
+- **Create Groups**: Users can create groups for their notes. A popup will open up to create a new group, and users can choose a color for the group. On clicking create button the popup will be closed.
 
 - **Add Notes**: Users can add notes to a particular group. The note creation date and time will be displayed alongside the note.
 
@@ -20,17 +20,18 @@ To use this application, simply open the index.html file in your web browser. Yo
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![image](https://github.com/RahuRabh/Cuvette-Notes-App/assets/63224718/708b3622-983c-4064-b63b-a8b1fddb8b36)
+
+![image](https://github.com/RahuRabh/Cuvette-Notes-App/assets/63224718/ecf58499-a926-48b7-979b-380b9fd71085)
 
 ## Installation
 
-No installation is required. Simply open the index.html file in your web browser.
+No installation is required. Simply clone the repository and hit "npm start"
 
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-## License
+## About
 
-This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details.
+This project was created by me as a task from [Cuvette Techonologies](https://cuvette.tech/placement-guarantee-program/) during the Full Stack Development Program.
